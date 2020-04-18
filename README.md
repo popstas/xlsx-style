@@ -3,7 +3,9 @@
 Parser and writer for various spreadsheet formats.  Pure-JS cleanroom implementation from official specifications and related documents.
 
 # About this fork (popstas/xlsx-style)
-This fork created for publish master branch of [protobi/js-xlsx](https://github.com/protobi/js-xlsx) as npm package `@viasite/xlsx-style` until [author update](https://github.com/protobi/js-xlsx/issues/143).
+This fork created for publish master branch of [protobi/js-xlsx](https://github.com/protobi/js-xlsx) as npm package `@popstas/xlsx-style` until [author update](https://github.com/protobi/js-xlsx/issues/143).
+
+Used in [viasite/sites-scraper](https://github.com/viasite/sites-scraper).
 
 # About this fork (protobi/js-xlsx)
 **NOTE:** [This project](https://github.com/SheetJS/js-xlsx/tree/beta) is a fork of the original (and awesome) [SheetJS/xlsx](https://github.com/SheetJS/js-xlsx) project.
